@@ -1,6 +1,6 @@
-id=joypixel65emoji
-name=JoyPixel 6.5 Emojis
-version=v1.3
+id=joypixelemoji
+name=JoyPixel 6.6 Emojis
+version=v1.4
 versionCode=4
 author=Tycho Regter / Rezz0r
-description=Systemlessly replaces your default emojis with the Joypixel 6.5 emojis.
+description=A Magisk Module to systemlessly replace the system emoji font with JoyPixel's 6.6 emojis.
